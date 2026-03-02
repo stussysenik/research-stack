@@ -1,4 +1,3 @@
-# Work SMARTER not HARDER
+# Research Stack
 
-- Tropy (image reference)
-- Zotero
+Tropy, Zotero, what else?
